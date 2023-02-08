@@ -17,8 +17,8 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <!-- Dependencies needed after this package is compiled. -->
-  <exec_depend>hector_gazebo_thermal_camera</exec_depend>
-  <exec_depend>hector_gazebo_worlds</exec_depend>
+  <!-- <exec_depend>hector_gazebo_thermal_camera</exec_depend>
+  <exec_depend>hector_gazebo_worlds</exec_depend> -->
   <exec_depend>hector_gazebo_plugins</exec_depend>
 
   <export>
